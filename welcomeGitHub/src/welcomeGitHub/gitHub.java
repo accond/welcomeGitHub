@@ -1,4 +1,4 @@
-package welcomeGitHub_test;
+package welcomeGitHub;
 
 public class gitHub {
 
