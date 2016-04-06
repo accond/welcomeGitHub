@@ -1,4 +1,4 @@
-package welcomeGitHub_modify;
+package welcomeGitHub;
 
 public class gitHub {
 
